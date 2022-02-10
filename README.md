@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<h1 align = "left">
+   Hi there 👋 
+  </h1>
+<img src="https://user-images.githubusercontent.com/63298200/153370424-7c69a8e3-1e2e-4775-a540-ff92fd900487.gif" width="250" height="250" align="left"/>
+<p>
+  
+  </p>
 <!--
 **Harry12901/Harry12901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+
